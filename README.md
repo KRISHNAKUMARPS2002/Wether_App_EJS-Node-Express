@@ -4,7 +4,7 @@ This is a simple weather application built with EJS as the templating engine, No
 
 ## Preview
 
-![Preview](public/images/preview.png)
+![Preview](public/preview.png)
 
 ## Features
 
