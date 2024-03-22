@@ -19,3 +19,10 @@ This is a simple weather application built with EJS as the templating engine, No
 
    ```bash
    git clone https://github.com/KRISHNAKUMARPS2002/Wether_App_EJS-Node-Express.git
+
+1. cd Wether_App_EJS-Node-Express
+
+2. npm install
+
+3. npm start
+
